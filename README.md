@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+## About me
+
+I am bla bla
+
 <!--
 **rebahmalak/Rebahmalak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
